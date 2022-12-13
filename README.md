@@ -1,2 +1,2 @@
-# sales_forecasting_tft
+# TFT를 이용한 Walmart 수요예측 
 소프트웨어융합캡스톤디자인 결과물
