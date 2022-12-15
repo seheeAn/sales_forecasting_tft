@@ -16,9 +16,6 @@
 - Interpretability
 ![image](https://user-images.githubusercontent.com/49268298/207885059-e70794f3-76e4-44eb-83f6-d72a814c7d68.png)
 
-### Preprocessing
-
-
 ### Training
  - CA_1 store-product 단위 판매에 대한 수요 예측 진행
 - encode data = 90일 , decode data = 28일
@@ -26,3 +23,11 @@
 - store, store-category data pool에서 각각 학습
 - tweedie loss 사용
 - store 모델에 대해 파라미터 튜닝
+
+### Result
+![image](https://user-images.githubusercontent.com/49268298/207885721-f73c475e-c677-45e4-81c4-1a4ed5b2e991.png)
+개별 product 예측에서 TFT가 더 우수한 성능을 보였다.
+![image (1)](https://user-images.githubusercontent.com/49268298/207885939-9b3a86b0-1614-4d92-b2c8-a856d4642051.png)
+![image](https://user-images.githubusercontent.com/49268298/207886028-6db8c370-a7c6-43c5-b967-653c69a3c9b5.png)
+
+
