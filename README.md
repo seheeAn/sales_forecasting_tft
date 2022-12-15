@@ -25,9 +25,9 @@
 - store 모델에 대해 파라미터 튜닝
 
 ### Result
+WRMSSE값을 여러 집계 level 별로 계산했을 때 개별 product 예측에서 TFT가 더 우수한 성능을 보였다.
 ![image](https://user-images.githubusercontent.com/49268298/207885721-f73c475e-c677-45e4-81c4-1a4ed5b2e991.png)
-개별 product 예측에서 TFT가 더 우수한 성능을 보였다.
 ![image (1)](https://user-images.githubusercontent.com/49268298/207885939-9b3a86b0-1614-4d92-b2c8-a856d4642051.png)
-![image](https://user-images.githubusercontent.com/49268298/207886028-6db8c370-a7c6-43c5-b967-653c69a3c9b5.png)
+![image (2)](https://user-images.githubusercontent.com/49268298/207886247-a5f60fc7-5fab-4a75-94fd-bc57bb8633d0.png)
 
 
