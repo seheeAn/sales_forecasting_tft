@@ -29,7 +29,7 @@
 WRMSSE값을 여러 집계 level 별로 계산했을 때 개별 product 예측에서 TFT가 더 우수한 성능을 보였다.  
 
 ![image (1)](https://user-images.githubusercontent.com/49268298/207885939-9b3a86b0-1614-4d92-b2c8-a856d4642051.png)
-![image (2)](https://user-images.githubusercontent.com/49268298/207886247-a5f60fc7-5fab-4a75-94fd-bc57bb8633d0.png) 
+![image (2)](https://user-images.githubusercontent.com/49268298/207886247-a5f60fc7-5fab-4a75-94fd-bc57bb8633d0.png)  
 실제값과, 1위 예측값, TFT 예측값을 product, store단위로 plot한 결과는 위와같다.
 
 -----
